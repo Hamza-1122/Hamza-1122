@@ -3,7 +3,7 @@
 My Name is Humza Raja and I am doing graduation in Computer Science from Comsats University, Islamabad. Alongside my studies, I am also doing free lancing from last 2 years.
 The services i offer are:
 
-1- Script Writing.
+1- Script Writing.\n
 2- Video Editing.
 3- Mobile App Development.
 
